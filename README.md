@@ -10,3 +10,5 @@
 Ade20boss/Ade20boss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+DISCLAIMER :
+ALL THE PROJECTS ON THIS REPOSITORY AR EFOR EDUCATIONAL PURPOSES ONLY AND THEY ARE TO BE USED ONLY WHEN YOU HAVE EXPLICIT PERMISSION.
